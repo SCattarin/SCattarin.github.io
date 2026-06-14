@@ -1,2 +1,2 @@
-# stefanocattarin.github.io
+# SCattarin.github.io
 Hugo Portfolio
