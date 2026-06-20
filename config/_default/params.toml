@@ -1,14 +1,17 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/avatar.png"
+favicon        = "/images/logo.png"
 
 [footer]
     since = 2020
 
+
+[params.logo]
+ image = "/images/logo.png"
+
 [sidebar]
-    emoji    = "✏️"
     subtitle = "Science & Digital Heritage Specialist | MSc Paleobiology | Digitization | Science Communication."
-    avatar   = "img/avatar.png"
+    avatar   = "/images/avatar.jpg"
 
 [article]
     [article.license]

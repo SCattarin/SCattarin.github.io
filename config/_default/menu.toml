@@ -1,15 +1,51 @@
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+identifier = "about"
+name = "About"
+url = "/page/about/"
+weight = 2
+
+[[main]]
+identifier = "projects"
+name = "Projects"
+url = "/project/"
+weight = 3
+
+[[main]]
+identifier = "cv"
+name = "CV"
+url = "/page/cv/"
+weight = 4
+
+[[main]]
+identifier = "photography"
+name = "Photography"
+url = "/page/photography/"
+weight = 5
+
+[[main]]
+identifier = "contact"
+name = "Contact"
+url = "/page/contact/"
+weight = 6
+
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/CaiJimmy/hugo-theme-stack"
+    url        = "https://github.com/SCattarin/SCattarin.github.io"
 
     [social.params]
         icon = "brand-github"
 
 [[social]]
-    identifier = "twitter"
-    name       = "Twitter"
-    url        = "https://twitter.com"
+    identifier = "linkedin"
+    name       = "LinkedIn"
+    url        = "https://www.linkedin.com/in/stefano-cattarin-43159a85/"
 
     [social.params]
-        icon = "brand-twitter"
+        icon = "brand-linkedin"
